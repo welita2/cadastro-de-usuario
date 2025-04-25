@@ -1,17 +1,23 @@
-<<<<<<< HEAD
-# cadastro-de-usuario
-Tela de Cadastro de usuário
-=======
-# React + Vite
+# Cadastro de Usuário
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de cadastro de usuários desenvolvido em React, com foco em boas práticas de desenvolvimento e estilização utilizando CSS.
 
-Currently, two official plugins are available:
+## 📋 Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto permite que os usuários realizem o cadastro de informações básicas, exibindo os dados cadastrados em uma interface amigável. Ele foi desenvolvido como parte de um aprendizado em React e CSS.
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 250730b (primeiro commit)
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **CSS**: Para estilização da aplicação.
+- **Git**: Controle de versão.
+- **GitHub**: Hospedagem do repositório.
+
+
+🛠️ Funcionalidades
+Cadastro de usuários com validação de campos.
+Exibição dos dados cadastrados em um layout responsivo.
+Botões estilizados com hover para melhor experiência do usuário.
+
+Desenvolvido com 💙 por Welita
+
