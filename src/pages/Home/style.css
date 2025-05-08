@@ -76,3 +76,14 @@ form{
         opacity: 0.5;
     }
 }
+.success-message {
+    background-color: #8B8AE1;
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    border: 1px solid #8B8AE1;
+    align-items: center;
+    text-align: center;
+  }
+  
